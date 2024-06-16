@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Plot Data</title>
+  </head>
+  <body>
+    <h1>Hello from template with ${param}</h1>
+    <img src="img/out.png" />
+  </body>
+</html>
